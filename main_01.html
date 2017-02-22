@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+<link href="css/main_01.css" type="text/css" rel="stylesheet" />
+<script language="javascript" type="text/javascript">
+function bt()
+{
+	var ycxs=document.getElementById("ycxs_id");
+	var tsnr=document.getElementById("tsnr_id");
+	var ycxs_top=document.getElementById("ycxs");
+	var tsnr_top=document.getElementById("ts");
+	ycxs.className="yincang";
+	tsnr.className="ycxs_c";
+	ycxs_top.className="yangshi1 shouxing"
+	tsnr_top.className="yangshi1 xiabianguang beijing shouxing"
+}
+function bt1()
+{
+	var ycxs=document.getElementById("ycxs_id");
+	var tsnr=document.getElementById("tsnr_id");
+	var ycxs_top=document.getElementById("ycxs");
+	var tsnr_top=document.getElementById("ts");
+	ycxs.className="ycxs_c";
+	tsnr.className="yincang";
+	ycxs_top.className="yangshi1 xiabianguang beijing shouxing";
+	tsnr_top.className="yangshi1 shouxing";
+	
+}
+
+</script>
+</head>
+
+<body>
+	<div id="main">
+    	<div id="ycxs" class="yangshi1 shouxing xiabianguang beijing" onMouseOver="bt1()">原创小说</div>
+        <div id="ts" class="yangshi1 shouxing" onMouseOver="bt()">听书</div>
+        <div class="ycxs_c" id="ycxs_id">原创小说内容</div>
+        <div class="ycxs_c yincang" id="tsnr_id">听书内容</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+*
+{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0px;
+}
+#main
+{
+	width:300px;
+	height:200px;
+	
+}
+
+#ycxs
+{
+	width:100px;
+	height:30px;
+	float:left;
+}
+
+#ts
+{
+	width:100px;
+	height:30px;
+	
+}
+	
+.yangshi1
+{
+	width:100px;
+	height:30px;
+	border:1px #ccc solid;
+	margin-bottom:10px;
+	line-height:30px;
+	text-align:center;
+	font-weight:900;
+}
+
+.ycxs_c
+{
+	width:300px;
+	height:150px;
+	
+}
+
+.yincang{display:none}
+
+.shouxing{cursor:pointer}
+
+.xiabianguang{border-bottom:1px #FFFFFF solid}
+
+.beijing{background-color:#ccc}

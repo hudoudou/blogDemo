@@ -1,0 +1,17 @@
+
+
+
+#suibian{width:440px;height:180px}
+.line{width:194px;height:19px;font-size:12px;margin-top:5px}
+.line a{color:#06f;text-decoration:none}
+.line a:hover{color:#F00;text-decoration:underline}
+.line_l{width:29px;height:19px;float:left;background-color:#f28008;color:#FFF;font-size:12px;text-align:center;line-height:19px}
+.line_l a{color:#FFF}
+.line_l a:hover{color:#F00;text-decoration:underline}
+.line_r{width:160px;height:19px;float:left;margin-left:5px}
+.line_r a{color:#06F; text-decoration:none}
+.line_r a:hover{color:#F00;text-decoration:underline}
+#line_l_01{width:41px;height:19px;float:left;color:#FFF;background-color:#f28008;text-align:center;line-height:19px}
+#line_r_01{width:148px;height:19px;float:left;margin-left:5px}
+#line_l_01 a{color:#FFF}
+#line_l_01 a:hover{color:#F00; text-decoration:underline}

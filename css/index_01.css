@@ -1,0 +1,8 @@
+
+#main{width:318px;height:200px;border:1px #d4d4d4 solid}
+#index_01{width:318px;height:32px;background-image:url(../images/index_01_bg.jpg);background-repeat:repeat-x}
+#left{width:113px;height:32px;float:left;background-image:url(../images/tubiao.png);background-repeat:no-repeat;background-position:12px center;padding-left:35px;line-height:30px}
+#right{width:170px;height:32px;float:left;font-size:12px;line-height:32px}
+
+
+
